@@ -6,9 +6,9 @@
 ![](https://github.com/zhoujian89/Project-Object-Detection/blob/master/南网项目/A检测结果.jpg)
 
 ###待检测图片2
-![](https://github.com/zhoujian89/Project-Object-Detection/blob/master/南网项目/B500kV惠墨乙线087号塔A相V串面向小号侧绝缘子自爆一片(自挂点起左串第6片).jpg)
+![](https://github.com/zhoujian89/Project-Object-Detection/blob/master/南网项目/I500kV仁厂甲线161号塔A相小号侧绝缘子自爆一片（自导线起右串第14片）.jpg)
 ###结果2
-![](https://github.com/zhoujian89/Project-Object-Detection/blob/master/南网项目/B检测结果.jpg)
+![](https://github.com/zhoujian89/Project-Object-Detection/blob/master/南网项目/I检测结果.jpg)
 
 ###待检测图片3
 ![](https://github.com/zhoujian89/Project-Object-Detection/blob/master/南网项目/C500kV小楚甲线223号塔B相大号侧绝缘子自爆一片(自挂点起右串第11片).jpg)
@@ -41,9 +41,9 @@
 ![](https://github.com/zhoujian89/Project-Object-Detection/blob/master/南网项目/H检测结果.jpg)
 
 ###待检测图片9
-![](https://github.com/zhoujian89/Project-Object-Detection/blob/master/南网项目/I500kV仁厂甲线161号塔A相小号侧绝缘子自爆一片（自导线起右串第14片）.jpg)
+![](https://github.com/zhoujian89/Project-Object-Detection/blob/master/南网项目/B500kV惠墨乙线087号塔A相V串面向小号侧绝缘子自爆一片(自挂点起左串第6片).jpg)
 ###结果9
-![](https://github.com/zhoujian89/Project-Object-Detection/blob/master/南网项目/I检测结果.jpg)
+![](https://github.com/zhoujian89/Project-Object-Detection/blob/master/南网项目/B检测结果.jpg)
 
 ###待检测图片10
 ![](https://github.com/zhoujian89/Project-Object-Detection/blob/master/南网项目/J500kV德博Ⅱ回线243号塔B相跳线串绝缘子自爆一片（自导线起第10片）.jpg)
