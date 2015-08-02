@@ -50,5 +50,5 @@
 ###结果10
 ![](https://github.com/zhoujian89/Project-Object-Detection/blob/master/南网项目/J检测结果.jpg)
 
-###Tracking
+###Superpixel-Based Compressive Tracking 【算法对比图 SCT、FCT、CT、Frag、MIL、VTD、TLD、Struck、LOT】
 ![](https://github.com/zhoujian89/Project-Object-Detection/blob/master/tracking.jpg)
